@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://discord.gg/cUnxzGa">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+        <img src="https://img.shields.io/discord/755445795599417375?logo=discord"
             alt="join me on Discord"></a>
     <a href="https://sacramentix.fr">
         <img src="https://img.shields.io/website?label=sacramentix.fr&style=flat&logo=OVH&url=https%3A%2F%2Fsacramentix.fr"

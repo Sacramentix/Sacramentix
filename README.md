@@ -14,7 +14,18 @@
 - 🚧 I’m currently working on [WikiAdventure](https://github.com/Sacramentix/WikiAdventure/)
 - 🗻 I love SVG and [Inkscape](https://inkscape.org/)
 
+## My current project
+
+- [WikiAdventure](https://github.com/Sacramentix/WikiAdventure/) a web game based on wikipedia API
+- [PrimalZerg](https://github.com/Sacramentix/PrimalZerg) a mod for Terraria made with [tModLoader](https://github.com/tModLoader/tModLoader)
+- [VoidTrader](https://github.com/Sacramentix/VoidTraderDatapack) a datapack for minecraft
+
 ## Discord
+
+Join me on discord !
+<a href="https://discord.gg/cUnxzGa">
+        <img src="https://img.shields.io/discord/755445795599417375?logo=discord"
+            alt="join me on Discord"></a>
 
 
 

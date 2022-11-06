@@ -1,5 +1,12 @@
 # [Sacramentix](https://sacramentix.fr) 🌍
 
+## 🚀 Tech stack
+
+<p align="center">
+  <a href="https://astro.build" title="Astro"><img width=200 height=200 src="https://api.iconify.design/logos:astro.svg" alt="Astro logo"></a>
+	<a href="https://www.typescriptlang.org" title="Typescript"><img width=200 height=200 src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript logo"></a>
+</p>
+
 <p align="center">
     <a href="https://discord.gg/cUnxzGa">
         <img src="https://img.shields.io/discord/755445795599417375?logo=discord"

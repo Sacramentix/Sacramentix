@@ -6,6 +6,8 @@
   	<a href="https://astro.build" title="Astro"><img width=120 height=120 src="https://api.iconify.design/logos:astro.svg" alt="Astro logo"></a>
 	<a href="https://www.typescriptlang.org" title="Typescript"><img width=120 height=120 src="https://api.iconify.design/logos:typescript-icon.svg" alt="Typescript logo"></a>
 	<a href="https://vuejs.org" title="Vue"><img width=120 height=120 src="https://api.iconify.design/logos:vue.svg" alt="Vue logo"></a>
+	<a href="https://nodejs.org" title="Node"><img width=120 height=120 src="https://api.iconify.design/logos:nodejs-icon.svg" alt="Node logo"></a>
+	<a href="https://www.fastify.io" title="Fastify"><img width=120 height=120 src="https://api.iconify.design/simple-icons:fastify.svg" alt="Fastify logo"></a>
 </p>
 
 <p align="center">

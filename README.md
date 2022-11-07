@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./sacramentix-banner.svg" width=600 height=200>
+	<a href="https://sacramentix.fr" title="Sacramentix"><img src="./sacramentix-banner.svg" width=600 height=200></a>
 </p>
 
 ## 🚀 Tech stack
@@ -31,12 +31,6 @@
 - 🚧 I’m currently working on [WikiAdventure](https://github.com/Sacramentix/WikiAdventure/)
 - 🗻 I love SVG and [Inkscape](https://inkscape.org/)
 - <span style="color:red">**CLASSIFIED**</span> [website](http://www.scpwiki.com/)
-
-## My current project
-
-- [WikiAdventure](https://github.com/Sacramentix/WikiAdventure/) a web game based on wikipedia API
-- [PrimalZerg](https://github.com/Sacramentix/PrimalZerg) a mod for Terraria made with [tModLoader](https://github.com/tModLoader/tModLoader)
-- [VoidTrader](https://github.com/Sacramentix/VoidTraderDatapack) a datapack for minecraft
 
 ## Discord
 

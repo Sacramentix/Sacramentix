@@ -28,9 +28,7 @@
 
 - 🚧 I’m currently working on [WikiAdventure](https://github.com/Sacramentix/WikiAdventure/)
 - 🗻 I love SVG and [Inkscape](https://inkscape.org/)
-- ```diff
-- **CLASSIFIED** -
-``` [website](http://www.scpwiki.com/)
+- $$\textcolor{red}{\text{CLASSIFIED}}$$ [website](http://www.scpwiki.com/)
 
 ## Discord
 

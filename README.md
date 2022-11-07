@@ -28,7 +28,11 @@
 
 - 🚧 I’m currently working on [WikiAdventure](https://github.com/Sacramentix/WikiAdventure/)
 - 🗻 I love SVG and [Inkscape](https://inkscape.org/)
-- $$\textcolor{red}{\text{CLASSIFIED}}$$ [website](http://www.scpwiki.com/)
+
+> __Warning__
+> THIS [WEBSITE](http://www.scpwiki.com/) IS CLASSIFIED 
+> UNAUTHORIZED PERSONNEL WILL BE TRACKED, LOCATED, AND DETAINED
+
 
 ## Discord
 

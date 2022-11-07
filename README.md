@@ -30,7 +30,9 @@
 - 🗻 I love SVG and [Inkscape](https://inkscape.org/)
 
 > __Warning__
-> THIS [WEBSITE](http://www.scpwiki.com/) IS CLASSIFIED 
+
+> THIS [WEBSITE](http://www.scpwiki.com/) IS **CLASSIFIED**
+
 > UNAUTHORIZED PERSONNEL WILL BE TRACKED, LOCATED, AND DETAINED
 
 

@@ -20,7 +20,7 @@ https://www.netlify.com/
         <img src="https://img.shields.io/discord/755445795599417375?logo=discord"
             alt="join me on Discord"></a>
     <a href="https://sacramentix.fr">
-        <img src="https://img.shields.io/website?label=sacramentix.fr&style=flat&logo=OVH&url=https%3A%2F%2Fsacramentix.fr"
+        <img src="https://img.shields.io/website?label=sacramentix.fr&style=flat&logo=netlify&url=https%3A%2F%2Fsacramentix.fr"
             alt="check my website"></a>
 </p>
 

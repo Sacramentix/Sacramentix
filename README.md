@@ -24,7 +24,7 @@
 	<a href="https://haxe.org" title="Haxe"><img width=120 height=120 src="https://api.iconify.design/logos:haxe.svg" alt="Haxe logo"></a>
 </p>
 
-## I'm a Developer, video game fan and open source enthusiast
+## I'm a full stack Web developer and open source enthusiast
 
 - 🚧 I’m currently working on [WikiAdventure](https://github.com/Sacramentix/WikiAdventure/)
 - 🗻 I love SVG and [Inkscape](https://inkscape.org/)

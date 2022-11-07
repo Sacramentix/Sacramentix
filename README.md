@@ -1,7 +1,7 @@
 # [Sacramentix](https://sacramentix.fr) 🌍
 
 ## 🚀 Tech stack
-
+https://www.netlify.com/
 <p align="center">
   	<a href="https://astro.build" title="Astro"><img width=120 height=120 src="https://api.iconify.design/logos:astro.svg" alt="Astro logo"></a>
 	<a href="https://www.typescriptlang.org" title="Typescript"><img width=120 height=120 src="https://api.iconify.design/logos:typescript-icon.svg" alt="Typescript logo"></a>
@@ -9,6 +9,10 @@
 	<a href="https://nodejs.org" title="Node"><img width=120 height=120 src="https://api.iconify.design/logos:nodejs-icon.svg" alt="Node logo"></a>
 	<a href="https://www.fastify.io" title="Fastify"><img width=120 height=120 src="https://api.iconify.design/logos:fastify-icon.svg" alt="Fastify logo"></a>
 	<a href="https://deno.land" title="Deno"><img width=120 height=120 src="https://api.iconify.design/logos:deno.svg" alt="Deno logo"></a>
+	<a href="https://fr.reactjs.org" title="React"><img width=120 height=120 src="https://api.iconify.design/logos:react.svg" alt="React logo"></a>
+	<a href="https://www.docker.com" title="Docker"><img width=120 height=120 src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker logo"></a>
+	<a href="https://www.netlify.com" title="Netlify"><img width=120 height=120 src="https://api.iconify.design/logos:netlify.svg" alt="Netlify logo"></a>
+	<a href="https://haxe.org" title="Haxe"><img width=120 height=120 src="https://api.iconify.design/logos:haxe.svg" alt="Haxe logo"></a>
 </p>
 
 <p align="center">

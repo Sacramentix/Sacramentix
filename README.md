@@ -1,5 +1,8 @@
 <p align="center">
 	<a href="https://sacramentix.fr" title="Sacramentix"><img src="./sacramentix-banner.svg" width=600 height=200></a>
+	<a href="https://sacramentix.fr">
+        	<img src="https://img.shields.io/website?label=sacramentix.fr&style=flat&logo=netlify&url=https%3A%2F%2Fsacramentix.fr" alt="check my website">
+	</a>
 </p>
 
 ## 🚀 Tech stack
@@ -15,15 +18,6 @@
 	<a href="https://www.docker.com" title="Docker"><img width=120 height=120 src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker logo"></a>
 	<a href="https://www.netlify.com" title="Netlify"><img width=120 height=120 src="https://api.iconify.design/logos:netlify.svg" alt="Netlify logo"></a>
 	<a href="https://haxe.org" title="Haxe"><img width=120 height=120 src="https://api.iconify.design/logos:haxe.svg" alt="Haxe logo"></a>
-</p>
-
-<p align="center">
-    <a href="https://discord.gg/cUnxzGa">
-        <img src="https://img.shields.io/discord/755445795599417375?logo=discord"
-            alt="join me on Discord"></a>
-    <a href="https://sacramentix.fr">
-        <img src="https://img.shields.io/website?label=sacramentix.fr&style=flat&logo=netlify&url=https%3A%2F%2Fsacramentix.fr"
-            alt="check my website"></a>
 </p>
 
 ## I'm a Developer, video game fan and open source enthusiast

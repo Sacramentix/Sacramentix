@@ -1,4 +1,6 @@
-# [Sacramentix](https://sacramentix.fr) 🌍
+<p align="center">
+	<img src="./sacramentix-banner.svg" width=3000 height=872>
+</p>
 
 ## 🚀 Tech stack
 

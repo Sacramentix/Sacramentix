@@ -1,7 +1,7 @@
 # [Sacramentix](https://sacramentix.fr) 🌍
 
 ## 🚀 Tech stack
-https://www.netlify.com/
+
 <p align="center">
   	<a href="https://astro.build" title="Astro"><img width=120 height=120 src="https://api.iconify.design/logos:astro.svg" alt="Astro logo"></a>
 	<a href="https://www.typescriptlang.org" title="Typescript"><img width=120 height=120 src="https://api.iconify.design/logos:typescript-icon.svg" alt="Typescript logo"></a>

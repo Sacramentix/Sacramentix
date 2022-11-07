@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./sacramentix-banner.svg" width=1000 height=300>
+	<img src="./sacramentix-banner.svg" width=600 height=200>
 </p>
 
 ## 🚀 Tech stack
